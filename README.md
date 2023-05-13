@@ -1,1 +1,1 @@
-# class-table
+the class table is all about a teacher who has the score of his students in each subject and for easier usage and accessment it has to be tabulated
